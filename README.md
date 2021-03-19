@@ -9,3 +9,5 @@ This is just a test to learn using github in association with programming at my 
 
 <h1>New try branch. Same branch</h1>
 <p>This is just a new text to make the branching work</p>
+
+<h1>This try is using the "git pull" function</h1>
